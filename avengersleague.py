@@ -12,5 +12,5 @@ def select_random_Ns(hjältar, n)
     result.append(hjältar[i:i + n])
     return result
 
-
+print("De här hjältarna ska slåss mot varandra")
 print(select_random_Ns(hjältar, 2))
